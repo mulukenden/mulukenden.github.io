@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Muluken Deneke</title>
+    <style>
+        body{background-color:#f4f4f4; }
+    </style>
+</head>
+<body>
+<img src="images/myPhoto.jpg" alt="My Photo" width="400">
+<section>
+    <h1>Muluken DenekeC:\Users\Fidist\Documents\GitHub\mulukenden.github.io</h1>
+	<ul>
+		<li>HW 01 - <a href="index.html" > Homepage</a> </li>
+		<li>Lab 02 - <a href="lab02/aboutme.html" > About Me</a> </li>
+		<li>HW 02 - <a href="hw2/pie.html" > Recipe</a> </li>
+		<li>HW 03 - <a href="hw3/tmnt.html" > Movie Review</a></li>
+	</ul>
+</section>
+<footer> &copy; Muluken Deneke &nbsp;&nbsp;&nbsp;&nbsp; Maharishi International University &nbsp;&nbsp;&nbsp;&nbsp; Address: 1000N 4th ST
+    &nbsp;&nbsp;&nbsp;&nbsp; Email: <a href="https://outlook.office.com/mail" target="_blank"> mtesfay@mum.edu </a><br>
+	<a href="https://validator.w3.org/check/referer">
+        <img src="http://mumstudents.org/cs472/2014-09/images/w3c-html.png" alt="html validator"/>
+	</a>
+</footer>
+</body>
+</html>
