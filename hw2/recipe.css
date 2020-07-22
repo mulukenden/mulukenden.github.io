@@ -1,0 +1,42 @@
+
+h1 {
+    color : #A4A400;   
+    font-family : Lucida Sans Unicode, Helvetica, Arial, sans-serif;    
+    font-size : 18pt;
+    text-align: left;
+    text-decoration: underline;
+    letter-spacing: 0.25em;    
+}
+
+.tightbackground {
+    background-color: #F0F0F0;
+}
+#main-heading {
+    font-size: 22pt;
+    text-align: center;
+}
+
+body {
+    background-color: white;
+    color : #404040;
+    font-size : 11pt;   
+    font-family : Georgia, Garamond, serif;
+}
+
+a {
+     color : #A4A400; 
+}
+
+abbr {
+    text-decoration: underline;
+}
+
+
+.direction {
+    font-weight: bold;
+}
+
+blockquote {
+    background-color : #FFFFA8;
+    font-style: italic;
+}
