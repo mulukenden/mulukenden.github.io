@@ -84,13 +84,5 @@ console.log("Expected output of findLongestWord(Hello,Hi,Hey) is Hello "
 
 const a = [1,3,5,3,3];
 
-const multiplyBy10 = a.map(function(elem, i, array) {
-    return elem*10;})
-console.log("Expected output of multiplyBy10[1,3,5,3,3] is [10,30,50,30,30] " + arrTest([10,30,50,30,30], multiplyBy10));
-const equalTo3 = a.filter(function(elem, i, array){
-    return elem === 3;});
-console.log("Expected output of equalTo3[1,3,5,3,3] is [3,3,3] " + arrTest([3,3,3], equalTo3));
-const product = a.reduce(function(prevVal, elem, i, array){
-    return prevVal*elem;});
-console.log("Expected output of product[1,3,5,3,3] is 135 " + myFunctionTest(135, product));
+
 
