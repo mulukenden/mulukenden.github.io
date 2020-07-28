@@ -18,6 +18,6 @@ describe('Reverese a String', function () {
 
 describe('filter long words after index', function () {
     it('new filtered array must match given array', function () {
-        chai.expect(filteredArray([1,2,3,4,5,6,7,8],2)).to.equal([3,4,5,6,7,8]);
+        chai.expect(filteredArray([1,2,3,4,5,6,],4)).to.equal([5,6]);
     });
 });
