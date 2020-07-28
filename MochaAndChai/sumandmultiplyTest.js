@@ -12,7 +12,7 @@ describe('Multiply numbers', function () {
 
 describe('Reverese a String', function () {
     it('reversed string must match sample string', function () {
-        chai.expect(("murad")).to.equal("darum");
+        chai.expect(("muluken")).to.equal("nekulum");
     });
 });
 
