@@ -8,7 +8,7 @@ String.prototype.filter = function (banned) {
 }
     describe("InheritanceMochaTesting", function() {
         it("Banned Words", function () {
-            assert.equal("This house is not nice!".filter("not"), "I am smart");
+            assert.equal("This house is not nice!".filter("not"), "This house is nice!");
         });
     });
 
